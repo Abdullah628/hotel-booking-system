@@ -214,7 +214,7 @@ export default function AdminUsersPage() {
         </Dialog>
       </main>
 
-      <footer className="bg-green-700 text-white py-6 mt-12">
+      <footer className="bg-[#00836C] text-white py-6 mt-12">
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center gap-2 mb-4 md:mb-0">

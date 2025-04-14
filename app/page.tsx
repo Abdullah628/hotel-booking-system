@@ -319,7 +319,7 @@ export default function Home() {
       </section>
 
       {/* CTA Section */}
-      <section className="py-16 bg-green-600 text-white">
+      <section className="py-16 bg-[#3bb38d] text-white">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-6">Ready to Experience Sunset Paradise?</h2>
           <p className="text-xl text-green-100 mb-8 max-w-2xl mx-auto">
@@ -340,7 +340,7 @@ export default function Home() {
         </div>
       </section>
 
-      <footer className="bg-green-600 text-white py-8">
+      <footer className="bg-[#00836C] text-white py-8">
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
